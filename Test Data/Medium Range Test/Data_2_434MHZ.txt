@@ -1,0 +1,1141 @@
+300m 52m 
+
+350m 52m
+
+400m 52m
+
+450m 52m
+
+500m 52m beg to beg
+
+16:20:28.951 -> Message Count: 30
+16:20:28.951 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:20:29.066 -> RSSI: -77
+16:20:29.066 -> 
+16:20:30.446 -> Spreading Factor: 011
+16:20:30.485 -> RSSI: -80
+
+
+
+
+
+300
+
+16:20:33.158 -> 
+16:20:33.158 -> BEGINNING OF DATA TO BE RECORDED+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:20:33.249 -> Distance: 200
+16:20:33.283 -> 
+16:20:33.510 -> Message Count: 31
+16:20:33.510 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:20:33.617 -> RSSI: -71
+16:20:33.617 -> 
+16:20:34.976 -> Spreading Factor: 011
+16:20:35.017 -> RSSI: -80
+16:20:38.037 -> Message Count: 32
+16:20:38.076 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:20:38.159 -> RSSI: -71
+16:20:38.159 -> 
+16:20:40.090 -> Spreading Factor: 012
+16:20:40.090 -> RSSI: -81
+16:20:46.841 -> Message Count: 33
+16:20:46.879 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:20:46.946 -> RSSI: -72
+16:20:46.946 -> 
+16:20:50.854 -> Spreading Factor: 012
+16:20:50.854 -> RSSI: -81
+16:20:57.635 -> Message Count: 34
+16:20:57.635 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:20:57.711 -> RSSI: -71
+16:20:57.759 -> 
+16:21:01.618 -> Spreading Factor: 012
+16:21:01.618 -> RSSI: -81
+16:21:08.389 -> Message Count: 35
+16:21:08.431 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:21:08.518 -> RSSI: -72
+16:21:08.518 -> 
+16:21:11.406 -> Spreading Factor: 007
+16:21:11.447 -> RSSI: -75
+16:21:12.066 -> Message Count: 36
+16:21:12.107 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:21:12.190 -> RSSI: -72
+16:21:12.190 -> 
+16:21:12.618 -> Spreading Factor: 007
+16:21:12.618 -> RSSI: -76
+16:21:13.297 -> Message Count: 37
+16:21:13.297 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:21:13.373 -> RSSI: -72
+16:21:13.406 -> 
+16:21:13.810 -> Spreading Factor: 007
+16:21:13.852 -> RSSI: -76
+16:21:14.474 -> Message Count: 38
+16:21:14.508 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:21:14.603 -> RSSI: -73
+16:21:14.603 -> 
+16:21:15.035 -> Spreading Factor: 008
+16:21:15.084 -> RSSI: -75
+16:21:15.825 -> Message Count: 39
+16:21:15.861 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:21:15.948 -> RSSI: -71
+16:21:15.982 -> 
+16:21:16.442 -> Spreading Factor: 008
+16:21:16.442 -> RSSI: -76
+16:21:17.203 -> Message Count: 40
+16:21:17.245 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:21:17.328 -> RSSI: -72
+16:21:17.328 -> 
+16:21:17.814 -> Spreading Factor: 008
+16:21:17.814 -> RSSI: -74
+16:21:18.574 -> Message Count: 41
+16:21:18.574 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:21:18.686 -> RSSI: -72
+16:21:18.686 -> 
+16:21:19.186 -> Spreading Factor: 009
+16:21:19.227 -> RSSI: -80
+16:21:20.221 -> Message Count: 42
+16:21:20.221 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:21:20.332 -> RSSI: -72
+16:21:20.332 -> 
+16:21:20.858 -> Spreading Factor: 009
+16:21:20.858 -> RSSI: -81
+16:21:21.851 -> Message Count: 43
+16:21:21.892 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:21:21.960 -> RSSI: -71
+16:21:21.993 -> 
+16:21:22.467 -> Spreading Factor: 009
+16:21:22.502 -> RSSI: -79
+16:21:23.490 -> Message Count: 44
+16:21:23.532 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:21:23.616 -> RSSI: -72
+16:21:23.616 -> 
+16:21:24.244 -> Spreading Factor: 010
+16:21:24.286 -> RSSI: -78
+16:21:25.689 -> Message Count: 45
+16:21:25.723 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:21:25.795 -> RSSI: -71
+16:21:25.831 -> 
+16:21:26.423 -> Spreading Factor: 010
+16:21:26.465 -> RSSI: -79
+16:21:27.872 -> Message Count: 46
+16:21:27.914 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:21:27.991 -> RSSI: -70
+16:21:28.031 -> 
+16:21:28.626 -> Spreading Factor: 010
+16:21:28.668 -> RSSI: -79
+16:21:30.093 -> Message Count: 47
+16:21:30.093 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:21:30.205 -> RSSI: -71
+16:21:30.205 -> 
+16:21:31.109 -> Spreading Factor: 011
+16:21:31.109 -> RSSI: -80
+16:21:34.123 -> Message Count: 48
+16:21:34.161 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:21:34.246 -> RSSI: -72
+16:21:34.293 -> 
+16:21:35.661 -> Spreading Factor: 011
+16:21:35.661 -> RSSI: -79
+16:21:38.678 -> Message Count: 49
+16:21:38.715 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:21:38.797 -> RSSI: -71
+16:21:38.848 -> 
+16:21:40.221 -> Spreading Factor: 011
+16:21:40.221 -> RSSI: -79
+16:21:43.242 -> Message Count: 50
+16:21:43.279 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:21:43.347 -> RSSI: -71
+16:21:43.381 -> 
+16:21:45.263 -> Spreading Factor: 012
+16:21:45.263 -> RSSI: -81
+16:21:52.033 -> Message Count: 51
+16:21:52.074 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:21:52.141 -> RSSI: -73
+16:21:52.175 -> 
+16:21:56.058 -> Spreading Factor: 012
+16:21:56.058 -> RSSI: -81
+16:22:02.852 -> Message Count: 52
+16:22:02.852 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:22:02.947 -> RSSI: -72
+16:22:02.947 -> 
+16:22:06.826 -> Spreading Factor: 012
+16:22:06.826 -> RSSI: -82
+16:22:13.573 -> Message Count: 53
+16:22:13.616 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:22:13.698 -> RSSI: -72
+16:22:13.698 -> 
+16:22:16.622 -> Spreading Factor: 007
+16:22:16.622 -> RSSI: -75
+16:22:17.263 -> Message Count: 54
+16:22:17.306 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:22:17.389 -> RSSI: -72
+16:22:17.389 -> 
+16:22:17.838 -> Spreading Factor: 007
+16:22:17.838 -> RSSI: -75
+16:22:18.317 -> 
+16:22:18.317 -> END OF DATA TO BE RECORDED+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:22:18.396 -> 
+16:22:18.480 -> Message Count: 55
+16:22:18.480 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:22:18.577 -> RSSI: -72
+16:22:18.577 -> 
+16:22:18.995 -> Spreading Factor: 007
+16:22:19.039 -> RSSI: -75
+16:22:19.704 -> Message Count: 56
+16:22:19.704 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:22:19.782 -> RSSI: -72
+16:22:19.782 -> 
+16:22:20.249 -> Spreading Factor: 008
+16:22:20.295 -> RSSI: -75
+16:22:21.033 -> Message Count: 57
+16:22:21.079 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:22:21.159 -> RSSI: -73
+16:22:21.159 -> 
+16:22:21.596 -> Spreading Factor: 008
+16:22:21.635 -> RSSI: -76
+16:22:22.416 -> Message Count: 58
+16:22:22.416 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:22:22.509 -> RSSI: -71
+16:22:22.542 -> 
+16:22:22.997 -> Spreading Factor: 008
+16:22:22.997 -> RSSI: -74
+16:22:23.764 -> Message Count: 59
+16:22:23.804 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:22:23.871 -> RSSI: -72
+16:22:23.904 -> 
+16:22:24.414 -> Spreading Factor: 009
+16:22:24.414 -> RSSI: -79
+16:22:25.404 -> Message Count: 60
+16:22:25.437 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:22:25.520 -> RSSI: -72
+16:22:25.520 -> 
+16:22:26.042 -> Spreading Factor: 009
+16:22:26.042 -> RSSI: -80
+16:22:27.052 -> Message Count: 61
+16:22:27.052 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:22:27.161 -> RSSI: -75
+16:22:27.161 -> 
+16:22:27.672 -> Spreading Factor: 009
+16:22:27.711 -> RSSI: -82
+16:22:28.702 -> Message Count: 62
+16:22:28.702 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:22:28.810 -> RSSI: -75
+16:22:28.810 -> 
+16:22:29.454 -> Spreading Factor: 010
+16:22:29.454 -> RSSI: -81
+16:22:30.882 -> Message Count: 63
+16:22:30.933 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:22:31.035 -> RSSI: -75
+16:22:31.035 -> 
+16:22:31.649 -> Spreading Factor: 010
+16:22:31.649 -> RSSI: -80
+16:22:33.084 -> Message Count: 64
+16:22:33.125 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:22:33.208 -> RSSI: -71
+16:22:33.208 -> 
+16:22:33.834 -> Spreading Factor: 010
+16:22:33.872 -> RSSI: -78
+16:22:35.291 -> Message Count: 65
+16:22:35.291 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:22:35.384 -> RSSI: -72
+16:22:35.417 -> 
+16:22:36.289 -> Spreading Factor: 011
+16:22:36.330 -> RSSI: -81
+16:22:39.343 -> Message Count: 66
+16:22:39.343 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:22:39.437 -> RSSI: -84
+16:22:39.487 -> 
+16:22:40.843 -> Spreading Factor: 011
+16:22:40.843 -> RSSI: -91
+16:22:43.894 -> Message Count: 67
+16:22:43.894 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:22:44.001 -> RSSI: -75
+16:22:44.001 -> 
+16:25:32.211 -> Spreading Factor: 007
+16:25:32.211 -> RSSI: -81
+16:25:32.869 -> Message Count: 0
+16:25:32.869 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:25:32.981 -> RSSI: -80
+16:25:32.981 -> 
+16:25:33.422 -> Spreading Factor: 007
+16:25:33.422 -> RSSI: -83
+16:25:34.066 -> Message Count: 1
+16:25:34.066 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:25:34.157 -> RSSI: -81
+16:25:34.191 -> 
+16:25:34.630 -> Spreading Factor: 007
+16:25:34.630 -> RSSI: -84
+
+
+
+
+
+
+
+350
+
+16:25:35.091 -> 
+16:25:35.091 -> BEGINNING OF DATA TO BE RECORDED+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:25:35.231 -> Distance: 200
+16:25:35.231 -> 
+16:25:35.265 -> Message Count: 2
+16:25:35.298 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:25:35.365 -> RSSI: -79
+16:25:35.419 -> 
+16:25:35.833 -> Spreading Factor: 008
+16:25:35.869 -> RSSI: -84
+16:25:36.619 -> Message Count: 3
+16:25:36.661 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:25:36.728 -> RSSI: -82
+16:25:36.772 -> 
+16:25:37.211 -> Spreading Factor: 008
+16:25:37.211 -> RSSI: -84
+16:25:37.991 -> Message Count: 4
+16:25:38.036 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:25:38.132 -> RSSI: -84
+16:25:38.132 -> 
+16:25:38.591 -> Spreading Factor: 008
+16:25:38.591 -> RSSI: -88
+16:25:39.355 -> Message Count: 5
+16:25:39.397 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:25:39.479 -> RSSI: -82
+16:25:39.479 -> 
+16:25:39.991 -> Spreading Factor: 009
+16:25:39.991 -> RSSI: -92
+16:25:41.019 -> Message Count: 6
+16:25:41.019 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:25:41.098 -> RSSI: -86
+16:25:41.145 -> 
+16:25:41.655 -> Spreading Factor: 009
+16:25:41.655 -> RSSI: -89
+16:25:42.657 -> Message Count: 7
+16:25:42.657 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:25:42.736 -> RSSI: -84
+16:25:42.785 -> 
+16:25:43.257 -> Spreading Factor: 009
+16:25:43.297 -> RSSI: -90
+16:25:44.267 -> Message Count: 8
+16:25:44.308 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:25:44.408 -> RSSI: -81
+16:25:44.408 -> 
+16:25:45.022 -> Spreading Factor: 010
+16:25:45.068 -> RSSI: -90
+16:25:46.503 -> Message Count: 9
+16:25:46.503 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:25:46.580 -> RSSI: -83
+16:25:46.613 -> 
+16:25:47.212 -> Spreading Factor: 010
+16:25:47.254 -> RSSI: -91
+16:25:48.691 -> Message Count: 10
+16:25:48.691 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:25:48.803 -> RSSI: -84
+16:25:48.803 -> 
+16:25:49.436 -> Spreading Factor: 010
+16:25:49.436 -> RSSI: -90
+16:25:50.912 -> Message Count: 11
+16:25:50.912 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:25:51.007 -> RSSI: -79
+16:25:51.007 -> 
+16:25:51.877 -> Spreading Factor: 011
+16:25:51.920 -> RSSI: -86
+16:25:54.955 -> Message Count: 12
+16:25:54.955 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:25:55.054 -> RSSI: -84
+16:25:55.054 -> 
+16:25:56.419 -> Spreading Factor: 011
+16:25:56.461 -> RSSI: -93
+16:25:59.464 -> Message Count: 13
+16:25:59.503 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:25:59.621 -> RSSI: -81
+16:25:59.621 -> 
+16:26:00.972 -> Spreading Factor: 011
+16:26:01.015 -> RSSI: -89
+16:26:04.015 -> Message Count: 14
+16:26:04.058 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:26:04.159 -> RSSI: -84
+16:26:04.159 -> 
+16:26:06.063 -> Spreading Factor: 012
+16:26:06.063 -> RSSI: -90
+16:26:12.815 -> Message Count: 15
+16:26:12.857 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:26:12.940 -> RSSI: -83
+16:26:12.940 -> 
+16:26:16.842 -> Spreading Factor: 012
+16:26:16.842 -> RSSI: -92
+16:26:23.600 -> Message Count: 16
+16:26:23.600 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:26:23.712 -> RSSI: -83
+16:26:23.712 -> 
+16:26:27.579 -> Spreading Factor: 012
+16:26:27.619 -> RSSI: -91
+16:26:34.362 -> Message Count: 17
+16:26:34.404 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:26:34.487 -> RSSI: -84
+16:26:34.487 -> 
+16:26:37.418 -> Spreading Factor: 007
+16:26:37.418 -> RSSI: -86
+16:26:38.066 -> Message Count: 18
+16:26:38.066 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:26:38.161 -> RSSI: -83
+16:26:38.195 -> 
+16:26:38.594 -> Spreading Factor: 007
+16:26:38.637 -> RSSI: -84
+16:26:39.271 -> Message Count: 19
+16:26:39.271 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:26:39.367 -> RSSI: -78
+16:26:39.367 -> 
+16:26:39.630 -> 
+16:26:39.630 -> END OF DATA TO BE RECORDED+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:26:39.730 -> 
+16:26:39.776 -> Spreading Factor: 007
+16:26:39.823 -> RSSI: -82
+16:26:40.466 -> Message Count: 20
+16:26:40.466 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:26:40.561 -> RSSI: -80
+16:26:40.606 -> 
+16:26:41.030 -> Spreading Factor: 008
+16:26:41.072 -> RSSI: -87
+16:26:41.829 -> Message Count: 21
+16:26:41.829 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:26:41.954 -> RSSI: -82
+16:26:41.954 -> 
+16:26:42.385 -> Spreading Factor: 008
+16:26:42.423 -> RSSI: -88
+16:26:43.207 -> Message Count: 22
+16:26:43.207 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:26:43.333 -> RSSI: -88
+16:26:43.333 -> 
+16:26:43.748 -> Spreading Factor: 008
+16:26:43.798 -> RSSI: -88
+16:26:44.583 -> Message Count: 23
+16:26:44.583 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:26:44.666 -> RSSI: -86
+16:26:44.666 -> 
+16:26:45.192 -> Spreading Factor: 009
+16:26:45.192 -> RSSI: -90
+16:26:46.199 -> Message Count: 24
+16:26:46.240 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:26:46.324 -> RSSI: -82
+16:26:46.324 -> 
+16:26:46.809 -> Spreading Factor: 009
+16:26:46.850 -> RSSI: -89
+16:26:47.846 -> Message Count: 25
+16:26:47.846 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:26:47.936 -> RSSI: -79
+16:26:47.970 -> 
+16:26:48.458 -> Spreading Factor: 009
+16:26:48.506 -> RSSI: -89
+16:26:49.478 -> Message Count: 26
+16:26:49.513 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:26:49.580 -> RSSI: -79
+16:26:49.630 -> 
+16:26:50.226 -> Spreading Factor: 010
+16:26:50.267 -> RSSI: -83
+16:26:51.691 -> Message Count: 27
+16:26:51.691 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:26:51.773 -> RSSI: -78
+16:26:51.824 -> 
+16:26:52.451 -> Spreading Factor: 010
+16:26:52.451 -> RSSI: -98
+16:26:53.896 -> Message Count: 28
+16:26:53.896 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:26:53.971 -> RSSI: -82
+16:26:54.020 -> 
+16:26:54.648 -> Spreading Factor: 010
+16:26:54.648 -> RSSI: -86
+16:26:56.066 -> Message Count: 29
+16:26:56.111 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:26:56.192 -> RSSI: -77
+16:26:56.192 -> 
+16:26:57.084 -> Spreading Factor: 011
+16:26:57.084 -> RSSI: -88
+16:27:00.120 -> Message Count: 30
+16:27:00.163 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:27:00.264 -> RSSI: -78
+16:27:00.264 -> 
+16:27:01.648 -> Spreading Factor: 011
+16:27:01.648 -> RSSI: -88
+16:27:04.691 -> Message Count: 31
+16:27:04.691 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:27:04.785 -> RSSI: -78
+16:27:04.818 -> 
+16:27:42.604 -> Spreading Factor: 007
+16:27:42.604 -> RSSI: -80
+16:27:43.271 -> Message Count: 0
+16:27:43.271 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:27:43.362 -> RSSI: -78
+16:27:43.362 -> 
+16:27:43.799 -> Spreading Factor: 007
+16:27:43.799 -> RSSI: -80
+16:27:44.476 -> Message Count: 1
+16:27:44.476 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:27:44.552 -> RSSI: -78
+16:27:44.585 -> 
+16:27:44.977 -> Spreading Factor: 007
+16:27:45.011 -> RSSI: -82
+
+
+
+
+
+
+400
+
+16:27:45.509 -> 
+16:27:45.509 -> BEGINNING OF DATA TO BE RECORDED+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:27:45.622 -> Distance: 200
+16:27:45.622 -> 
+16:27:45.668 -> Message Count: 2
+16:27:45.668 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:27:45.768 -> RSSI: -78
+16:27:45.768 -> 
+16:27:46.249 -> Spreading Factor: 008
+16:27:46.249 -> RSSI: -81
+16:27:47.007 -> Message Count: 3
+16:27:47.049 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:27:47.118 -> RSSI: -79
+16:27:47.166 -> 
+16:27:47.610 -> Spreading Factor: 008
+16:27:47.610 -> RSSI: -81
+16:27:48.406 -> Message Count: 4
+16:27:48.406 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:27:48.485 -> RSSI: -78
+16:27:48.520 -> 
+16:27:48.948 -> Spreading Factor: 008
+16:27:48.992 -> RSSI: -82
+16:27:49.757 -> Message Count: 5
+16:27:49.757 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:27:49.888 -> RSSI: -79
+16:27:49.888 -> 
+16:27:50.401 -> Spreading Factor: 009
+16:27:50.401 -> RSSI: -87
+16:27:51.418 -> Message Count: 6
+16:27:51.418 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:27:51.492 -> RSSI: -80
+16:27:51.526 -> 
+16:27:52.008 -> Spreading Factor: 009
+16:27:52.048 -> RSSI: -89
+16:27:53.058 -> Message Count: 7
+16:27:53.058 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:27:53.137 -> RSSI: -79
+16:27:53.187 -> 
+16:27:53.651 -> Spreading Factor: 009
+16:27:53.692 -> RSSI: -87
+16:27:54.678 -> Message Count: 8
+16:27:54.678 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:27:54.804 -> RSSI: -80
+16:27:54.804 -> 
+16:27:55.425 -> Spreading Factor: 010
+16:27:55.464 -> RSSI: -87
+16:27:56.880 -> Message Count: 9
+16:27:56.880 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:27:56.990 -> RSSI: -78
+16:27:56.990 -> 
+16:27:57.652 -> Spreading Factor: 010
+16:27:57.652 -> RSSI: -86
+16:27:59.066 -> Message Count: 10
+16:27:59.108 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:27:59.191 -> RSSI: -77
+16:27:59.191 -> 
+16:27:59.801 -> Spreading Factor: 010
+16:27:59.841 -> RSSI: -87
+16:28:01.267 -> Message Count: 11
+16:28:01.267 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:28:01.394 -> RSSI: -79
+16:28:01.394 -> 
+16:28:02.267 -> Spreading Factor: 011
+16:28:02.308 -> RSSI: -88
+16:28:05.333 -> Message Count: 12
+16:28:05.333 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:28:05.441 -> RSSI: -77
+16:28:05.441 -> 
+16:28:06.834 -> Spreading Factor: 011
+16:28:06.834 -> RSSI: -86
+16:28:09.874 -> Message Count: 13
+16:28:09.915 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:28:09.997 -> RSSI: -77
+16:28:09.997 -> 
+16:28:11.390 -> Spreading Factor: 011
+16:28:11.390 -> RSSI: -86
+16:28:14.419 -> Message Count: 14
+16:28:14.465 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:28:14.560 -> RSSI: -81
+16:28:14.560 -> 
+16:28:16.442 -> Spreading Factor: 012
+16:28:16.488 -> RSSI: -90
+16:28:23.230 -> Message Count: 15
+16:28:23.230 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:28:23.357 -> RSSI: -80
+16:28:23.357 -> 
+16:28:27.230 -> Spreading Factor: 012
+16:28:27.230 -> RSSI: -89
+16:28:34.002 -> Message Count: 16
+16:28:34.002 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:28:34.094 -> RSSI: -83
+16:28:34.127 -> 
+16:28:37.988 -> Spreading Factor: 012
+16:28:38.028 -> RSSI: -91
+16:28:44.791 -> Message Count: 17
+16:28:44.791 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:28:44.865 -> RSSI: -82
+16:28:44.899 -> 
+16:28:47.784 -> Spreading Factor: 007
+16:28:47.822 -> RSSI: -83
+16:28:48.478 -> Message Count: 18
+16:28:48.478 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:28:48.556 -> RSSI: -80
+16:28:48.556 -> 
+16:28:48.989 -> Spreading Factor: 007
+16:28:49.030 -> RSSI: -84
+16:28:49.679 -> Message Count: 19
+16:28:49.679 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:28:49.754 -> RSSI: -79
+16:28:49.787 -> 
+16:28:50.178 -> Spreading Factor: 007
+16:28:50.219 -> RSSI: -86
+16:28:50.871 -> Message Count: 20
+16:28:50.871 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:28:50.980 -> RSSI: -81
+16:28:50.980 -> 
+16:28:51.444 -> Spreading Factor: 008
+16:28:51.444 -> RSSI: -83
+16:28:52.215 -> Message Count: 21
+16:28:52.257 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:28:52.357 -> RSSI: -80
+16:28:52.357 -> 
+16:28:52.781 -> Spreading Factor: 008
+16:28:52.821 -> RSSI: -83
+16:28:53.569 -> Message Count: 22
+16:28:53.610 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:28:53.710 -> RSSI: -80
+16:28:53.710 -> 
+16:28:54.143 -> Spreading Factor: 008
+16:28:54.184 -> RSSI: -84
+16:28:54.955 -> Message Count: 23
+16:28:54.955 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:28:55.062 -> RSSI: -80
+16:28:55.062 -> 
+16:28:55.572 -> Spreading Factor: 009
+16:28:55.611 -> RSSI: -88
+16:28:56.573 -> Message Count: 24
+16:28:56.614 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:28:56.696 -> RSSI: -81
+16:28:56.729 -> 
+16:28:57.254 -> Spreading Factor: 009
+16:28:57.254 -> RSSI: -88
+16:28:58.236 -> Message Count: 25
+16:28:58.236 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:28:58.347 -> RSSI: -81
+16:28:58.347 -> 
+16:28:58.842 -> Spreading Factor: 009
+16:28:58.885 -> RSSI: -89
+16:28:59.279 -> 
+16:28:59.279 -> END OF DATA TO BE RECORDED+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:28:59.354 -> 
+16:28:59.879 -> Message Count: 26
+16:28:59.879 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:28:59.992 -> RSSI: -79
+16:28:59.992 -> 
+16:29:00.619 -> Spreading Factor: 010
+16:29:00.660 -> RSSI: -87
+16:29:02.058 -> Message Count: 27
+16:29:02.101 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:29:02.201 -> RSSI: -77
+16:29:02.201 -> 
+16:29:02.831 -> Spreading Factor: 010
+16:29:02.831 -> RSSI: -84
+16:29:04.282 -> Message Count: 28
+16:29:04.282 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:29:04.384 -> RSSI: -76
+16:29:04.384 -> 
+16:29:05.036 -> Spreading Factor: 010
+16:29:05.036 -> RSSI: -84
+16:29:06.461 -> Message Count: 29
+16:29:06.508 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:29:06.586 -> RSSI: -76
+16:29:06.586 -> 
+16:29:07.461 -> Spreading Factor: 011
+16:29:07.503 -> RSSI: -83
+16:29:10.531 -> Message Count: 30
+16:29:10.531 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:29:10.666 -> RSSI: -77
+16:29:10.666 -> 
+16:29:12.031 -> Spreading Factor: 011
+16:29:12.031 -> RSSI: -84
+16:29:15.078 -> Message Count: 31
+16:29:15.078 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:29:15.185 -> RSSI: -79
+16:29:15.185 -> 
+16:29:16.558 -> Spreading Factor: 011
+16:29:16.600 -> RSSI: -89
+16:29:19.623 -> Message Count: 32
+16:29:19.664 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:29:19.749 -> RSSI: -78
+16:29:19.749 -> 
+16:29:21.623 -> Spreading Factor: 012
+16:29:21.665 -> RSSI: -93
+16:29:28.407 -> Message Count: 33
+16:29:28.448 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:29:28.532 -> RSSI: -80
+16:29:28.532 -> 
+16:29:32.413 -> Spreading Factor: 012
+16:29:32.454 -> RSSI: -89
+16:29:39.180 -> Message Count: 34
+16:29:39.222 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:29:39.321 -> RSSI: -79
+16:29:39.321 -> 
+16:29:43.196 -> Spreading Factor: 012
+16:29:43.196 -> RSSI: -87
+16:29:49.978 -> Message Count: 35
+16:29:49.978 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:29:50.106 -> RSSI: -81
+16:29:50.106 -> 
+16:29:52.993 -> Spreading Factor: 007
+16:29:52.993 -> RSSI: -87
+16:29:53.633 -> Message Count: 36
+16:29:53.673 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:29:53.773 -> RSSI: -82
+16:29:53.773 -> 
+16:29:54.201 -> Spreading Factor: 007
+16:29:54.201 -> RSSI: -86
+
+
+
+
+
+
+450
+
+16:29:54.649 -> 
+16:29:54.649 -> BEGINNING OF DATA TO BE RECORDED+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:29:54.758 -> Distance: 400
+16:29:54.758 -> 
+16:29:54.876 -> Message Count: 37
+16:29:54.876 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:29:54.954 -> RSSI: -82
+16:29:54.988 -> 
+16:29:55.401 -> Spreading Factor: 007
+16:29:55.401 -> RSSI: -84
+16:29:56.069 -> Message Count: 38
+16:29:56.069 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:29:56.163 -> RSSI: -82
+16:29:56.163 -> 
+16:29:56.609 -> Spreading Factor: 008
+16:29:56.648 -> RSSI: -88
+16:29:57.420 -> Message Count: 39
+16:29:57.461 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:29:57.528 -> RSSI: -84
+16:29:57.528 -> 
+16:29:57.976 -> Spreading Factor: 008
+16:29:58.019 -> RSSI: -84
+16:29:58.771 -> Message Count: 40
+16:29:58.813 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:29:58.880 -> RSSI: -77
+16:29:58.930 -> 
+16:29:59.384 -> Spreading Factor: 008
+16:29:59.384 -> RSSI: -82
+16:30:00.156 -> Message Count: 41
+16:30:00.156 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:30:00.241 -> RSSI: -84
+16:30:00.276 -> 
+16:30:00.767 -> Spreading Factor: 009
+16:30:00.808 -> RSSI: -88
+16:30:01.816 -> Message Count: 42
+16:30:01.816 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:30:01.910 -> RSSI: -77
+16:30:01.910 -> 
+16:30:02.434 -> Spreading Factor: 009
+16:30:02.434 -> RSSI: -105
+16:30:03.425 -> Message Count: 43
+16:30:03.466 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:30:03.551 -> RSSI: -83
+16:30:03.551 -> 
+16:30:04.087 -> Spreading Factor: 009
+16:30:04.087 -> RSSI: -97
+16:30:05.089 -> Message Count: 44
+16:30:05.089 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:30:05.164 -> RSSI: -97
+16:30:05.198 -> 
+16:30:05.831 -> Spreading Factor: 010
+16:30:05.831 -> RSSI: -95
+16:30:07.272 -> Message Count: 45
+16:30:07.272 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:30:07.383 -> RSSI: -94
+16:30:07.383 -> 
+16:30:08.034 -> Spreading Factor: 010
+16:30:08.034 -> RSSI: -93
+16:30:09.448 -> Message Count: 46
+16:30:09.489 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:30:09.607 -> RSSI: -83
+16:30:09.607 -> 
+16:30:10.222 -> Spreading Factor: 010
+16:30:10.222 -> RSSI: -90
+16:30:11.661 -> Message Count: 47
+16:30:11.709 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:30:11.758 -> RSSI: -81
+16:30:11.808 -> 
+16:30:12.662 -> Spreading Factor: 011
+16:30:12.703 -> RSSI: -87
+16:30:15.740 -> Message Count: 48
+16:30:15.740 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:30:15.837 -> RSSI: -78
+16:30:15.837 -> 
+16:30:17.207 -> Spreading Factor: 011
+16:30:17.249 -> RSSI: -88
+16:30:20.260 -> Message Count: 49
+16:30:20.301 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:30:20.415 -> RSSI: -76
+16:30:20.415 -> 
+16:30:21.767 -> Spreading Factor: 011
+16:30:21.811 -> RSSI: -90
+16:30:24.821 -> Message Count: 50
+16:30:24.863 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:30:24.946 -> RSSI: -82
+16:30:24.946 -> 
+16:30:26.856 -> Spreading Factor: 012
+16:30:26.856 -> RSSI: -89
+16:30:33.600 -> Message Count: 51
+16:30:33.642 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:30:33.725 -> RSSI: -80
+16:30:33.725 -> 
+16:30:37.628 -> Spreading Factor: 012
+16:30:37.628 -> RSSI: -86
+16:30:44.402 -> Message Count: 52
+16:30:44.402 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:30:44.500 -> RSSI: -77
+16:30:44.500 -> 
+16:30:48.409 -> Spreading Factor: 012
+16:30:48.409 -> RSSI: -90
+16:30:55.168 -> Message Count: 53
+16:30:55.168 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:30:55.274 -> RSSI: -78
+16:30:55.274 -> 
+16:30:58.187 -> Spreading Factor: 007
+16:30:58.187 -> RSSI: -82
+16:30:58.826 -> Message Count: 54
+16:30:58.867 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:30:58.968 -> RSSI: -79
+16:30:58.968 -> 
+16:30:59.405 -> Spreading Factor: 007
+16:30:59.405 -> RSSI: -82
+16:31:00.036 -> Message Count: 55
+16:31:00.075 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:31:00.145 -> RSSI: -78
+16:31:00.193 -> 
+16:31:00.580 -> Spreading Factor: 007
+16:31:00.621 -> RSSI: -82
+16:31:01.276 -> Message Count: 56
+16:31:01.276 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:31:01.371 -> RSSI: -79
+16:31:01.371 -> 
+16:31:01.833 -> Spreading Factor: 008
+16:31:01.833 -> RSSI: -83
+16:31:02.639 -> Message Count: 57
+16:31:02.639 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:31:02.715 -> RSSI: -82
+16:31:02.765 -> 
+16:31:03.203 -> Spreading Factor: 008
+16:31:03.203 -> RSSI: -81
+16:31:03.999 -> Message Count: 58
+16:31:03.999 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:31:04.076 -> RSSI: -79
+16:31:04.109 -> 
+16:31:04.552 -> Spreading Factor: 008
+16:31:04.593 -> RSSI: -87
+16:31:05.360 -> Message Count: 59
+16:31:05.360 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:31:05.483 -> RSSI: -81
+16:31:05.483 -> 
+16:31:05.982 -> Spreading Factor: 009
+16:31:05.982 -> RSSI: -89
+16:31:06.989 -> Message Count: 60
+16:31:06.989 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:31:07.114 -> RSSI: -81
+16:31:07.114 -> 
+16:31:07.597 -> Spreading Factor: 009
+16:31:07.638 -> RSSI: -89
+16:31:08.084 -> 
+16:31:08.126 -> END OF DATA TO BE RECORDED+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:31:08.226 -> 
+16:31:08.644 -> Message Count: 61
+16:31:08.644 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:31:08.757 -> RSSI: -81
+16:31:08.757 -> 
+16:31:09.233 -> Spreading Factor: 009
+16:31:09.274 -> RSSI: -89
+16:31:10.255 -> Message Count: 62
+16:31:10.296 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:31:10.395 -> RSSI: -78
+16:31:10.395 -> 
+16:31:11.029 -> Spreading Factor: 010
+16:31:11.029 -> RSSI: -84
+16:31:12.455 -> Message Count: 63
+16:31:12.496 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:31:12.563 -> RSSI: -76
+16:31:12.597 -> 
+16:31:13.230 -> Spreading Factor: 010
+16:31:13.230 -> RSSI: -84
+16:31:14.671 -> Message Count: 64
+16:31:14.671 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:31:14.781 -> RSSI: -77
+16:31:14.781 -> 
+16:31:15.420 -> Spreading Factor: 010
+16:31:15.420 -> RSSI: -86
+16:31:16.861 -> Message Count: 65
+16:31:16.861 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:31:16.971 -> RSSI: -78
+16:31:16.971 -> 
+16:31:17.869 -> Spreading Factor: 011
+16:31:17.869 -> RSSI: -89
+16:31:20.898 -> Message Count: 66
+16:31:20.940 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:31:21.040 -> RSSI: -100
+16:31:21.040 -> 
+16:31:22.427 -> Spreading Factor: 011
+16:31:22.427 -> RSSI: -98
+16:31:25.472 -> Message Count: 67
+16:31:25.472 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:31:25.596 -> RSSI: -81
+16:31:25.596 -> 
+16:31:26.979 -> Spreading Factor: 011
+16:31:26.979 -> RSSI: -88
+16:31:30.045 -> Message Count: 68
+16:31:30.045 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:31:30.139 -> RSSI: -81
+16:31:30.139 -> 
+16:31:32.028 -> Spreading Factor: 012
+16:31:32.067 -> RSSI: -88
+16:31:38.817 -> Message Count: 69
+16:31:38.817 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:31:38.944 -> RSSI: -83
+16:31:38.944 -> 
+16:31:42.799 -> Spreading Factor: 012
+16:31:42.840 -> RSSI: -91
+16:31:49.585 -> Message Count: 70
+16:31:49.627 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:31:49.710 -> RSSI: -81
+16:31:49.710 -> 
+16:31:53.598 -> Spreading Factor: 012
+16:31:53.598 -> RSSI: -90
+16:32:00.383 -> Message Count: 71
+16:32:00.383 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:32:00.459 -> RSSI: -84
+16:32:00.508 -> 
+16:32:03.356 -> Spreading Factor: 007
+16:32:03.397 -> RSSI: -83
+
+
+
+
+
+
+500
+
+16:32:04.152 -> 
+16:32:04.152 -> BEGINNING OF DATA TO BE RECORDED+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:32:04.228 -> Distance: 600
+16:32:04.228 -> 
+16:33:08.597 -> Spreading Factor: 007
+16:33:08.597 -> RSSI: -78
+16:33:09.227 -> Message Count: 0
+16:33:09.268 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:33:09.336 -> RSSI: -76
+16:33:09.385 -> 
+16:33:09.767 -> Spreading Factor: 007
+16:33:09.808 -> RSSI: -80
+16:33:10.465 -> Message Count: 1
+16:33:10.465 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:33:10.562 -> RSSI: -77
+16:33:10.562 -> 
+16:33:10.979 -> Spreading Factor: 007
+16:33:11.020 -> RSSI: -81
+16:33:11.656 -> Message Count: 2
+16:33:11.656 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:33:11.792 -> RSSI: -77
+16:33:11.792 -> 
+16:33:12.220 -> Spreading Factor: 008
+16:33:12.265 -> RSSI: -80
+16:33:13.010 -> Message Count: 3
+16:33:13.051 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:33:13.119 -> RSSI: -77
+16:33:13.119 -> 
+16:33:13.601 -> Spreading Factor: 008
+16:33:13.601 -> RSSI: -80
+16:33:14.365 -> Message Count: 4
+16:33:14.408 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:33:14.475 -> RSSI: -77
+16:33:14.510 -> 
+16:33:14.972 -> Spreading Factor: 008
+16:33:14.972 -> RSSI: -80
+16:33:15.760 -> Message Count: 5
+16:33:15.760 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:33:15.836 -> RSSI: -77
+16:33:15.870 -> 
+16:33:16.351 -> Spreading Factor: 009
+16:33:16.395 -> RSSI: -84
+16:33:17.365 -> Message Count: 6
+16:33:17.406 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:33:17.489 -> RSSI: -77
+16:33:17.489 -> 
+16:33:18.013 -> Spreading Factor: 009
+16:33:18.013 -> RSSI: -84
+16:33:19.005 -> Message Count: 7
+16:33:19.048 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:33:19.131 -> RSSI: -77
+16:33:19.131 -> 
+16:33:19.643 -> Spreading Factor: 009
+16:33:19.684 -> RSSI: -88
+16:33:20.662 -> Message Count: 8
+16:33:20.662 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:33:20.773 -> RSSI: -83
+16:33:20.773 -> 
+16:33:21.413 -> Spreading Factor: 010
+16:33:21.454 -> RSSI: -90
+16:33:22.866 -> Message Count: 9
+16:33:22.866 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:33:22.994 -> RSSI: -77
+16:33:22.994 -> 
+16:33:23.632 -> Spreading Factor: 010
+16:33:23.632 -> RSSI: -82
+16:33:25.083 -> Message Count: 10
+16:33:25.083 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:33:25.176 -> RSSI: -76
+16:33:25.176 -> 
+16:33:25.801 -> Spreading Factor: 010
+16:33:25.841 -> RSSI: -83
+16:33:27.270 -> Message Count: 11
+16:33:27.270 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:33:27.347 -> RSSI: -75
+16:33:27.381 -> 
+16:33:28.263 -> Spreading Factor: 011
+16:33:28.263 -> RSSI: -83
+16:33:31.316 -> Message Count: 12
+16:33:31.316 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:33:31.442 -> RSSI: -75
+16:33:31.442 -> 
+16:33:32.820 -> Spreading Factor: 011
+16:33:32.820 -> RSSI: -84
+16:33:35.857 -> Message Count: 13
+16:33:35.904 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:33:35.998 -> RSSI: -82
+16:33:35.998 -> 
+16:33:37.345 -> Spreading Factor: 011
+16:33:37.385 -> RSSI: -83
+16:33:40.430 -> Message Count: 14
+16:33:40.430 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:33:40.540 -> RSSI: -76
+16:33:40.540 -> 
+16:33:42.416 -> Spreading Factor: 012
+16:33:42.458 -> RSSI: -87
+16:33:49.213 -> Message Count: 15
+16:33:49.213 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:33:49.305 -> RSSI: -77
+16:33:49.353 -> 
+16:33:53.198 -> Spreading Factor: 012
+16:33:53.240 -> RSSI: -86
+16:33:59.961 -> Message Count: 16
+16:34:00.002 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:34:00.100 -> RSSI: -77
+16:34:00.100 -> 
+16:34:03.979 -> Spreading Factor: 012
+16:34:03.979 -> RSSI: -86
+16:34:10.746 -> Message Count: 17
+16:34:10.786 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:34:10.853 -> RSSI: -77
+16:34:10.903 -> 
+16:34:13.749 -> Spreading Factor: 007
+16:34:13.790 -> RSSI: -80
+16:34:14.467 -> Message Count: 18
+16:34:14.467 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:34:14.543 -> RSSI: -77
+16:34:14.543 -> 
+16:34:14.962 -> Spreading Factor: 007
+16:34:15.002 -> RSSI: -80
+16:34:15.633 -> Message Count: 19
+16:34:15.672 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:34:15.757 -> RSSI: -76
+16:34:15.757 -> 
+16:34:16.157 -> Spreading Factor: 007
+16:34:16.198 -> RSSI: -80
+16:34:16.880 -> Message Count: 20
+16:34:16.880 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:34:16.959 -> RSSI: -77
+16:34:16.959 -> 
+16:34:17.400 -> Spreading Factor: 008
+16:34:17.440 -> RSSI: -80
+16:34:18.190 -> Message Count: 21
+16:34:18.231 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:34:18.332 -> RSSI: -77
+16:34:18.332 -> 
+16:34:18.780 -> Spreading Factor: 008
+16:34:18.824 -> RSSI: -81
+16:34:19.311 -> 
+16:34:19.311 -> BEGINNING OF DATA TO BE RECORDED+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+16:34:19.388 -> Distance: 200
+16:34:19.423 -> 
+16:34:19.599 -> Message Count: 22
+16:34:19.599 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:34:19.693 -> RSSI: -78
+16:34:19.693 -> 
+16:34:20.166 -> Spreading Factor: 008
+16:34:20.166 -> RSSI: -80
+16:34:20.938 -> Message Count: 23
+16:34:20.938 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:34:21.046 -> RSSI: -77
+16:34:21.046 -> 
+16:34:21.584 -> Spreading Factor: 009
+16:34:21.584 -> RSSI: -83
+16:34:22.594 -> Message Count: 24
+16:34:22.594 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:34:22.671 -> RSSI: -76
+16:34:22.705 -> 
+16:34:23.223 -> Spreading Factor: 009
+16:34:23.223 -> RSSI: -83
+16:34:24.220 -> Message Count: 25
+16:34:24.220 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:34:24.331 -> RSSI: -76
+16:34:24.331 -> 
+16:34:24.822 -> Spreading Factor: 009
+16:34:24.874 -> RSSI: -83
+16:34:25.879 -> Message Count: 26
+16:34:25.879 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:34:25.959 -> RSSI: -77
+16:34:26.005 -> 
+16:34:26.603 -> Spreading Factor: 010
+16:34:26.642 -> RSSI: -83
+16:34:28.063 -> Message Count: 27
+16:34:28.063 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:34:28.155 -> RSSI: -80
+16:34:28.188 -> 
+16:34:28.794 -> Spreading Factor: 010
+16:34:28.836 -> RSSI: -88
+16:34:30.275 -> Message Count: 28
+16:34:30.275 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:34:30.367 -> RSSI: -80
+16:34:30.367 -> 
+16:34:31.004 -> Spreading Factor: 010
+16:34:31.044 -> RSSI: -84
+16:34:32.445 -> Message Count: 29
+16:34:32.487 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:34:32.555 -> RSSI: -78
+16:34:32.589 -> 
+16:34:33.441 -> Spreading Factor: 011
+16:34:33.483 -> RSSI: -83
+16:34:36.491 -> Message Count: 30
+16:34:36.533 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:34:36.617 -> RSSI: -68
+16:34:36.617 -> 
+16:34:37.996 -> Spreading Factor: 011
+16:34:38.038 -> RSSI: -78
+16:34:41.099 -> Message Count: 31
+16:34:41.099 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:34:41.179 -> RSSI: -70
+16:34:41.179 -> 
+16:34:42.577 -> Spreading Factor: 011
+16:34:42.577 -> RSSI: -86
+16:34:45.622 -> Message Count: 32
+16:34:45.622 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:34:45.735 -> RSSI: -67
+16:34:45.735 -> 
+16:34:47.627 -> Spreading Factor: 012
+16:34:47.627 -> RSSI: -86
+16:34:54.420 -> Message Count: 33
+16:34:54.420 -> Testing 123: LORA is a new technology that can change lives for the better if successful
+16:34:54.496 -> RSSI: -68
