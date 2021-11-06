@@ -1,0 +1,15 @@
+1. CubeCell Heltec SX1262 Dev Board Module 433MHz version
+	Possible Purchase Sites:
+	https://www.banggood.com/ASR6501-SX1262-LoRaWAN-LoRa-Node-Development-Board-CubeCell-Module-Wifi-433MHz-p-1747464.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=ZA&utm_content=minha&utm_campaign=minha-za-en-pc&currency=ZAR&cur_warehouse=CN&createTmp=1
+	
+	https://heltec.org/project/htcc-ab01/
+
+
+2. Dragino Lora Sheild using HopeRF RFM98W module 433 MHz version (based on SX1278)
+	Shield Info:
+	https://wiki.dragino.com/index.php?title=Lora_Shield#I_have_ordered_LoRa_Shield_v95-868.2C_while_the_chip_on_LoRa_shield_shows_RF96.3F
+
+	Possible Purchase Sites:
+	https://dwmzone.com/en/dragino/405-1351-arduino-lora-shield-433mhz-868mhz-915mhz-version.html#/21-center_frequency-433mhz
+
+	https://dwmzone.com/en/dragino/405-1351-arduino-lora-shield-433mhz-868mhz-915mhz-version.html#/21-center_frequency-433mhz
