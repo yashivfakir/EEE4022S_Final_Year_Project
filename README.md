@@ -18,7 +18,7 @@ Several progress summaries were written up during the project that outline the f
   + Literature - Contains published papers on LoRa and is indexed in the word document
   + Possible Boards - This lists some of the other possible LoRa modules that could have been used
   + Report Graphics - Contains the graphics that were used in the final thesis
-  + Report Graphs - Contains the graphs summerizing the measured RSSI data
+  + Report Graphs - Contains the graphs summarizing the measured RSSI data
   + Resources - Contains some useful links and insight to introduce the topic
   + Rubric - Contains the rubric used to assess the final thesis
   + SDR - Contains the SDR code that was used to control the SDR monitor to observe the LoRa signals and changes
