@@ -1,0 +1,11 @@
+ESP32 Board
+
+Board Setup:
+	https://randomnerdtutorials.com/ttgo-lora32-sx1276-arduino-ide/
+
+Board Review:
+	https://makeradvisor.com/esp32-sx1276-lora-ssd1306-oled/
+
+Arduino IDE Install:
+	Board setup  - https://support.arduino.cc/hc/en-us/articles/360016119519-How-to-add-boards-in-the-board-manager
+	Lora Library - https://www.arduino.cc/reference/en/libraries/lora/
