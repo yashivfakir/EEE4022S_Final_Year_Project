@@ -13,6 +13,7 @@ Several progress summaries were written up during the project that outline the f
   + [SP21-06S] LoRa Based Communication System for Radiosonde Applications.pdf  (Project Specification document)
   + LORA - Summary.pptx
   + LoRa Project Update.pptx
+  + EEE4022S_2021_FINAL_REPORT_FKRYAS002_FAKIR_YF_PAINE.pdf (THIS IS THE FINAL THESIS WITH ALL OBSERVATIONS AND CONLUSIONS OUTLINE IN THE REPORT)
 
 # Repository Structure
   + Literature - Contains published papers on LoRa and is indexed in the word document
